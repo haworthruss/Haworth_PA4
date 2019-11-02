@@ -1,0 +1,10 @@
+word
+one
+two
+three
+six
+nine
+seven
+4
+5
+6
